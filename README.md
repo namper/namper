@@ -15,6 +15,6 @@ I work mainly with `Python`, `Django` and `Vue.js`. My skills include:
 </p>
 
 
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namper&layout=compact&langs_count=10&theme=onelight"></img> 
+<div style="display: flex;justify-content: center;align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namper&layout=compact&langs_count=10&theme=onedark"></img> 
 <div>
